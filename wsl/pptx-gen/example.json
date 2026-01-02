@@ -1,0 +1,29 @@
+{
+  "title": "MyManus Demo Deck",
+  "subtitle": "Auto-generated with python-pptx",
+  "slides": [
+    {
+      "title": "Overview",
+      "bullets": [
+        "ComfyUI for image generation",
+        "LibreOffice for conversions",
+        "MyManus orchestration"
+      ]
+    },
+    {
+      "title": "Image Slide",
+      "bullets": [
+        "This slide uses a right-side image",
+        "Provide a local file path for image"
+      ],
+      "image": "/home/louispetergu/ComfyUI/output/example.png"
+    },
+    {
+      "title": "Notes Example",
+      "bullets": [
+        "Speaker notes are supported"
+      ],
+      "notes": "This is a speaker note."
+    }
+  ]
+}
